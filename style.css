@@ -61,7 +61,7 @@ body {
     
 }
 
-.card .card-img {
+.card .card__img {
     width: 80px;
     border-radius: 50%;
     margin-bottom: 1.5rem;
